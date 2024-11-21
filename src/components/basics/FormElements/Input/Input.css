@@ -1,0 +1,15 @@
+input {
+  min-width: 240px;
+  width: 100%;
+  padding: 12px 16px;
+  border: solid 1px #d0d5dd;
+
+  color: #101828;
+  font-family: 'inter';
+  font-size: 16px;
+  font-weight: 400;
+}
+
+input:placeholder-shown {
+  color: #9aa2b2;
+}

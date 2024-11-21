@@ -1,0 +1,15 @@
+.form-wrapper {
+  max-width: 475px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+
+.form-header h1 {
+  margin-bottom: 32px;
+}
+
+.form-content form {
+  display: flex;
+  gap: 16px;
+}

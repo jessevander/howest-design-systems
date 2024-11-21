@@ -1,0 +1,28 @@
+.access-page-wrapper {
+  display: flex;
+  gap: 32px;
+  padding: 16px;
+  height: 100%;
+  justify-content: space-around;
+}
+
+.access-form-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-image-wrapper {
+  height: 100%;
+  width: 486px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-image-wrapper img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}

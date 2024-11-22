@@ -19,6 +19,8 @@
   width: 486px;
   display: flex;
   justify-content: space-between;
+  border-radius: var(--surface-border-radius);
+  overflow: hidden;
 }
 
 .form-image-wrapper img {

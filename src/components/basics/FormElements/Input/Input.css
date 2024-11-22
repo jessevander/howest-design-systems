@@ -2,14 +2,15 @@ input {
   min-width: 240px;
   width: 100%;
   padding: 12px 16px;
-  border: solid 1px #d0d5dd;
+  border: solid 1px var(--color-input-border);
+  border-radius: var(--input-border-radius);
 
-  color: #101828;
-  font-family: 'inter';
-  font-size: 16px;
-  font-weight: 400;
+  color: var(--color-text);
+  font-family: var(--font-family);
+  font-size: var(--text-font-size);
+  font-weight: var(--text-font-weight);
 }
 
 input:placeholder-shown {
-  color: #9aa2b2;
+  color: var(--color-input-border);
 }

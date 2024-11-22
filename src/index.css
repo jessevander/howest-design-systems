@@ -6,12 +6,6 @@
   box-sizing: border-box;
 }
 
-#root {
-  height: 100vh;
-  width: 100%;
-  padding: 16px 0;
-}
-
 h1,
 h2 {
   font-family: 'Inter';
@@ -29,6 +23,12 @@ h2 {
   line-height: 28px;
   font-weight: 400;
   color: #101828;
+}
+
+.app-wrapper {
+  height: 100vh;
+  width: 100%;
+  padding: 16px 0;
 }
 
 .page {

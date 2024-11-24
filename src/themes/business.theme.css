@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rufina:wght@400;700&display=swap');
+
+.theme-business {
+    /* Typografy */
+    --font-family: 'Inter';
+
+    --title-font-family: 'Inter';
+    --title-font-weight: 700;
+    --title-font-size: 48px;
+    --title-line-height: 56px;
+
+    --subtitle-font-family: 'Inter';
+    --subtitle-font-weight: 400;
+    --subtitle-font-size: 24px;
+    --subtitle-line-height: 28px;
+
+    --text-font-weight: 400;
+    --text-font-size: 16px;
+
+    --button-font-weight: 500;
+
+    /* colors */
+    --color-primary: #171717;
+
+    --color-background: #ffffff;
+
+    --color-title: #101828;
+    --color-subtitle: #101828;
+    --color-text: #101828;
+
+    --color-button-text: #ffffff;
+
+    --color-input: #101828;
+    --color-input-border: #D0D5DD;
+    --color-input-background: transparent;
+
+
+    /* radius */
+    --surface-border-radius: 0px;
+    --input-border-radius: 0px;
+    --input-button-radius: 0px;
+
+    /* Theme assets */
+    --form-image: url('../assets/form-image.png');
+}

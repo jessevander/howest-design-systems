@@ -1,0 +1,48 @@
+/* Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rufina:wght@400;700&display=swap');
+/* Paytone One */
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+
+.theme-education {
+    /* Typografy */
+    --font-family: 'Inter';
+
+    --title-font-family: 'Paytone One';
+    --title-font-weight: 700;
+    --title-font-size: 48px;
+    --title-line-height: 56px;
+
+    --subtitle-font-family: 'Inter';
+    --subtitle-font-weight: 400;
+    --subtitle-font-size: 24px;
+    --subtitle-line-height: 28px;
+
+    --text-font-weight: 400;
+    --text-font-size: 16px;
+
+    --button-font-weight: 500;
+
+    /* colors */
+    --color-primary: #2EC8CB;
+
+    --color-background: #462ED1;
+
+    --color-title: #FFFFFF;
+    --color-subtitle: #FFFFFF;
+    --color-text: #FFFFFF;
+
+    --color-button-text: #171717;
+
+    --color-input: #101828;
+    --color-input-border: #D0D5DD;
+    --color-input-background: transparent;
+
+
+    /* radius */
+    --surface-border-radius: 16px;
+    --input-border-radius: 9999px;
+    --input-button-radius: 9999px;
+
+    /* Theme assets */
+    --form-image: url('../assets/form-image-education.png');
+}

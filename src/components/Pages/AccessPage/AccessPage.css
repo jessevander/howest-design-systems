@@ -21,10 +21,6 @@
   justify-content: space-between;
   border-radius: var(--surface-border-radius);
   overflow: hidden;
-}
-
-.form-image-wrapper img {
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
+  background-image: var(--form-image);
+  background-position: center;
 }

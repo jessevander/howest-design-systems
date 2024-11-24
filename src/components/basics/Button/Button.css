@@ -8,4 +8,5 @@ button {
   padding: 12px;
   white-space: nowrap;
   border-radius: var(--input-button-radius);
+  cursor: pointer;
 }

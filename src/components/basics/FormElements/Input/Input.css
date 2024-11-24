@@ -5,7 +5,7 @@ input {
   border: solid 1px var(--color-input-border);
   border-radius: var(--input-border-radius);
 
-  color: var(--color-text);
+  color: var(--color-input);
   font-family: var(--font-family);
   font-size: var(--text-font-size);
   font-weight: var(--text-font-weight);

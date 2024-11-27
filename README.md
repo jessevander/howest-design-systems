@@ -26,7 +26,7 @@ This will start the Vite development server and you can view the application in 
 ### Available Scripts
 In the project directory, you can run:
 
-`npm run dev`: Starts the development server.
-`npm run build`: Builds the app for production.
-`npm run serve`: Serves the production build locally.
-`npm run lint`: Runs the linter to check for code quality issues.
+- `npm run dev`: Starts the development server.
+- `npm run build`: Builds the app for production.
+- `npm run serve`: Serves the production build locally.
+- `npm run lint`: Runs the linter to check for code quality issues.

@@ -23,4 +23,5 @@
   overflow: hidden;
   background-image: var(--form-image);
   background-position: center;
+  background-repeat: no-repeat;
 }

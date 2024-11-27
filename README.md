@@ -3,8 +3,8 @@
 ### Exercises for the Guest Lecture
 This repository contains two exercises designed to enhance your understanding of the lecture content. Each exercise has a dedicated branch that serves as the starting point:
 
-Exercise 1: Starting point available in the branch 1-variables-start.
-Exercise 2: Starting point available in the branch 2-themes-start.
+- Exercise 1: Starting point available in the branch `1-variables-start`.
+- Exercise 2: Starting point available in the branch `2-themes-start`.
 
 ### Solutions
 If you’d like to review the solutions, solution branches are provided for each exercise:

@@ -9,11 +9,11 @@ This repository contains two exercises designed to enhance your understanding of
 ### Solutions
 If you’d like to review the solutions, solution branches are provided for each exercise:
 
-Solution to Exercise 1: 1-variables-solution.
-Solution to Exercise 2: 2-themes-solution.
+- Solution to Exercise 1: `1-variables-solution`.
+- Solution to Exercise 2: `2-themes-solution`.
 
 #### Notes:
-- The branch 2-themes-start begins where the solution to Exercise 1 (1-variables-solution) ends.
+- The branch `2-themes-start` begins where the solution to Exercise 1 (`1-variables-solution`) ends.
 - There are multiple ways to complete this. These solutions are just how we would tackle these scenarios. Find a way that works for you.
 
 ---
